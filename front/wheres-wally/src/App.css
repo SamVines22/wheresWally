@@ -1,0 +1,12 @@
+#container {
+  margin: 1%;
+}
+
+h1 {
+  color:red;
+}
+
+#wally {
+  height: 70vh;
+  width: 90vw;
+}
